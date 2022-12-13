@@ -1,0 +1,4 @@
+# comment
+5, 102, 2005
+base, grstock
+region_id

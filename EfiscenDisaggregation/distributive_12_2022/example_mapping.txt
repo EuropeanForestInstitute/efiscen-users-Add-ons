@@ -1,0 +1,2 @@
+# reg_id, efiscen_species_id, efiscen_species_name, speciesmap_id, species_map_name
+1, 1, oak, 1, AbiesSpp.tif
